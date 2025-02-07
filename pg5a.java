@@ -1,4 +1,5 @@
-//timpass for git prac
+//hi
+//i m k
 class shapes{
     public void erase(){
         System.out.println("Erasing shapes...");
