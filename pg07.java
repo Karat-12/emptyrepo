@@ -1,3 +1,4 @@
+//changing in trial
 // Resizable interface
 interface Resizable {
     void resizeWidth(int width);
