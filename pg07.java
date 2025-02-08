@@ -1,3 +1,4 @@
+// changing in master
 // Resizable interface
 interface Resizable {
     void resizeWidth(int width);
